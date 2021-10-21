@@ -6,5 +6,5 @@ You are write this:
 Link to redirect: (your link)
 Shortly link: (some numbers and letters)
 
-This is a demo of the program. You can see at [here](https://ukicomputers.github.io/wantto). And just it is redirects to thi respostiory.
+This is a demo of the program. You can see at [here](https://ukicomputers.github.io/wantto). And just it is redirects to this respostiory.
 It's a free. And you can set how is shorted link!
