@@ -1,4 +1,4 @@
-# wantto.github.io
+# ukicomputers.github.io/wantto
 Shortly redirector for all links as this page!
 
 Hi everyone! This is shortly service. If you want to me add your link here to redirect, please type me that in issuses.
